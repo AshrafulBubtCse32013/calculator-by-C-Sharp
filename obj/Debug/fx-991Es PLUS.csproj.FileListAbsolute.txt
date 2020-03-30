@@ -1,0 +1,12 @@
+C:\Users\Ashraful\Documents\Visual Studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Ashraful\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Ashraful\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Ashraful\Documents\Visual Studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Ashraful\Documents\Visual Studio 2015\Projects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Ashraful\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\fx-991Es PLUS.csprojResolveAssemblyReference.cache
+C:\Users\Ashraful\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Ashraful\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Ashraful\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\fx-991Es PLUS.csproj.GenerateResource.Cache
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\calculator\calculator\bin\Debug\calculator.exe.config
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\calculator\calculator\obj\Debug\calculator.exe
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\calculator\calculator\obj\Debug\calculator.pdb
